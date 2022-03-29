@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnejqqfQBRjgEfUMr29w3ozbp1KSdSoM+7ARk3Dt8LvXvH5HQSO3d4UbirFaPMtj1ekyChgYpNc0Ek3/SBccqA==",
+  "dgSpecHash": "ZNk7CZ3NJuxEzjPzdNuhzOOO0O67ysoTM3wuJhPmoO9vucg/dWo5F8FEqaQvfE6/2/h6OR4IvnITodO5lDjFcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Esra\\Desktop\\NLayerProject\\NLayerProject\\NLayerProject.API\\NLayerProject.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Esra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Esra\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Esra\\.nuget\\packages\\swashbuckle.aspnetcore\\5.2.0\\swashbuckle.aspnetcore.5.2.0.nupkg.sha512",
+    "C:\\Users\\Esra\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.2.0\\swashbuckle.aspnetcore.swagger.5.2.0.nupkg.sha512",
+    "C:\\Users\\Esra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.2.0\\swashbuckle.aspnetcore.swaggergen.5.2.0.nupkg.sha512",
+    "C:\\Users\\Esra\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.2.0\\swashbuckle.aspnetcore.swaggerui.5.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

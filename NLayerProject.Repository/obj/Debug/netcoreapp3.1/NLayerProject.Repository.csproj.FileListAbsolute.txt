@@ -1,0 +1,13 @@
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\bin\Debug\netcoreapp3.1\NLayerProject.Repository.deps.json
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\bin\Debug\netcoreapp3.1\NLayerProject.Repository.dll
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\bin\Debug\netcoreapp3.1\NLayerProject.Repository.pdb
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\bin\Debug\netcoreapp3.1\NLayerProject.Core.dll
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\bin\Debug\netcoreapp3.1\NLayerProject.Core.pdb
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.csproj.AssemblyReference.cache
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.AssemblyInfoInputs.cache
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.AssemblyInfo.cs
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.csproj.CopyComplete
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.dll
+C:\Users\Esra\Desktop\NLayerProject\NLayerProject\NLayerProject.Repository\obj\Debug\netcoreapp3.1\NLayerProject.Repository.pdb
